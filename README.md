@@ -8,7 +8,7 @@ Install my-project with terminal
 ```bash
   git clone https://github.com/ghetto23/macchanger_v2.git
   cd macchanger_v2
-  python3 macchanger_v2 -h
+  python3 macchanger_v2.py -h
 ```
     
 ## Usage/Examples
