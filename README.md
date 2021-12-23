@@ -14,5 +14,6 @@ Install my-project with terminal
 ## Usage/Examples
 
 ```python3
-python3 macchanger_v2 -i <eth0> -m <22:BB:33:AA:34:12>
+python3 macchanger_v2.py --interface <eth0> --mac <22:BB:33:AA:34:12>
+python3 macchanger_v2.py -i <eth0> -m <22:BB:33:AA:34:12>
 ```
